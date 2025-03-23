@@ -48,3 +48,5 @@ docker run --publish 5000:5000 --rm vlan_converter
 
 ## Supported Netgear Switches
 Tested with the following Netgear Switches. Information needs to first be collected to Prometheus via an snmp exporter.
+* Netgear GS110TPv3
+* Netgear GS748T
